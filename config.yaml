@@ -85,9 +85,9 @@ params:
         subtitle: London life
         title: Scocial welfare
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: me.jpg
+        subtitle: Experience and interest
+        title: About me
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
@@ -97,14 +97,14 @@ params:
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      # - image: pic05.jpg
+      #   subtitle: Ipsum Dolor Sit Amet
+      #   title: Consequat
+      #   url: blogs/ipsum
+      # - image: pic06.jpg
+      #   subtitle: Feugiat Amet Tempus
+      #   title: Etiam
+      #   url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
