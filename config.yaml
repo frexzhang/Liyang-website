@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: londonbridge.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: London life
+        title: Scocial welfare
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
