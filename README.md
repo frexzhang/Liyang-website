@@ -1,2 +1,2 @@
 # Liyang-website
-"Still alive!"
+"Still alive"
