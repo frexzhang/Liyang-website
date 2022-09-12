@@ -84,7 +84,7 @@ params:
       - image: londonbridge.jpg
         subtitle: London life
         title: Scocial welfare
-        url: blogs/risk_return
+        url: blogs/socialwelfare
       - image: me.jpg
         subtitle: Experience and interest
         title: About me
@@ -96,7 +96,7 @@ params:
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/ipsum
+        url: blogs/risk_return
       # - image: pic05.jpg
       #   subtitle: Ipsum Dolor Sit Amet
       #   title: Consequat
