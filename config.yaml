@@ -50,7 +50,7 @@ params:
         url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/frexolivier/
       - icon: Liyang-github
         label: GitHub
         url: https://github.com/frexzhang/Liyang_Zhang_Web/blob/main/README.md
