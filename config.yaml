@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Liyang Zhang, Student of LBS
+    title: Liyang Zhang's story and life
   blog: {}
   contact:
     address:
@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: londonbridge.jpg
+      - image: Londonbridge.jpg
         subtitle: London life
         title: Scocial welfare
         url: blogs/socialwelfare
@@ -89,14 +89,14 @@ params:
         subtitle: Experience and interest
         title: About me
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: London2.jpg
+        subtitle: For interest and curious 
+        title: Projects_Visualization
+        url: blogs/vis
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/risk_return
+        url: blogs/magna
       # - image: pic05.jpg
       #   subtitle: Ipsum Dolor Sit Amet
       #   title: Consequat
