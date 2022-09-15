@@ -7,7 +7,7 @@ description: Study Bike rental -- reasch on the specific trend # the title that 
 draft: false
 image: London2.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 keywords: ""
-slug: vis # slug is the shorthand URL address... no spaces plz
+slug: visu # slug is the shorthand URL address... no spaces plz
 title: Project of Visualization
 editor_options: 
   markdown:  
@@ -258,7 +258,7 @@ since 1800)*
 
 ## STEP1.2: Generate renewable energy data
 
-```{r load_technology_data}
+```{r load_energy_data}
 #make smaller dataframe on energy
 energy <- technology %>% 
   filter(category == "Energy")
@@ -267,7 +267,7 @@ skim(technology)
 
 ## STEP1.3: Generate CO2 emission per capital data & Countries income level
 
-```{r load_technology_data}
+```{r load_emission_data}
 # download CO2 per capita from World Bank using {wbstats} package
 # https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
 co2_percap <- wb_data(country = "countries_only", 

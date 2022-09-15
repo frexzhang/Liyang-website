@@ -92,7 +92,7 @@ params:
       - image: London2.jpg
         subtitle: For interest and curious 
         title: Projects_Visualization
-        url: blogs/vis
+        url: blogs/visu
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
