@@ -1,0 +1,18 @@
+---
+categories:
+- ""
+- ""
+date: "2022-08-31T21:28:43-05:00"
+description: ""
+draft: false
+image: energy2.jpg
+keywords: ""
+slug: energy
+title: Crude oil volatility forecast research 
+---
+
+<center>
+
+*Applied Econometric and Machine Learning Models*
+
+![](/img/blogs/e1.PNG) ![](/img/blogs/e2.PNG) ![](/img/blogs/e3.PNG) ![](/img/blogs/e4.PNG) ![](/img/blogs/e5.PNG) ![](/img/blogs/e6.PNG) ![](/img/blogs/e7.PNG) ![](/img/blogs/e8.PNG) ![](/img/blogs/e9.PNG) ![](/img/blogs/e10.PNG) ![](/img/blogs/e11.PNG) ![](/img/blogs/e12.PNG) ![](/img/blogs/e13.PNG) ![](/img/blogs/e14.PNG) ![](/img/blogs/e15.PNG) ![](/img/blogs/e16.PNG) ![](/img/blogs/e17.PNG) ![](/img/blogs/e18.PNG) ![](/img/blogs/e19.PNG) ![](/img/blogs/e20.PNG) ![](/img/blogs/e21.PNG) ![](/img/blogs/e22.PNG) ![](/img/blogs/e23.PNG) ![](/img/blogs/e24.PNG) ![](/img/blogs/e25.PNG) ![](/img/blogs/e26.PNG) ![](/img/blogs/e27.PNG)

@@ -62,9 +62,9 @@ params:
     button1:
       - name: Get Started
         url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    # button2:
+    #   - name: Log In
+    #     url: '#'
     links:
       - name: Home
         url: '#'
@@ -72,8 +72,8 @@ params:
         url: blogs
       # - name: Generic Blog
       #   url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      # - name: Elements
+      #   url: elements.html
     menu: Menu
     subtitle: By Passion 
     title: Twenty Two
@@ -84,17 +84,17 @@ params:
         subtitle: London life
         title: Scocial welfare
         url: blogs/socialwelfare
-      - image: me.jpg
+      - image: me1.jpg
         subtitle: Experience and interest
         title: About me
         url: blogs/tempus
       - image: London2.jpg
-        subtitle: For interest and curious 
+        subtitle: For interest and environment 
         title: Projects_Visualization
         url: blogs/visu
       - image: energy.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Focous on return volatility 
+        title: Forecast research
         url: blogs/energy
       # - image: pic05.jpg
       #   subtitle: Ipsum Dolor Sit Amet
