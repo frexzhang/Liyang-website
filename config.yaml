@@ -93,7 +93,7 @@ params:
         title: Projects_Visualization
         url: blogs/visu
       - image: energy.jpg
-        subtitle: Focous on return volatility 
+        subtitle: Focous on energy volatility 
         title: Forecast research
         url: blogs/energy
       # - image: pic05.jpg
