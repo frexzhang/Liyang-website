@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      "I AM BECAUSE YOU ARE."
     title: Liyang Zhang's story and life
   blog: {}
   contact:
@@ -42,19 +41,19 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+      # - icon: fa-twitter
+      #   label: Twitter
+      #   url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/frexolivier/
-      - icon: Liyang-github
+      - icon: fa-github
         label: GitHub
         url: https://github.com/frexzhang/Liyang_Zhang_Web/blob/main/README.md
-      - icon: Liyang-linkedin
+      - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com/in/liyang-olivier/
   image: ''
@@ -93,10 +92,10 @@ params:
         subtitle: For interest and curious 
         title: Projects_Visualization
         url: blogs/visu
-      - image: pic04.jpg
+      - image: energy.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/magna
+        url: blogs/energy
       # - image: pic05.jpg
       #   subtitle: Ipsum Dolor Sit Amet
       #   title: Consequat
@@ -108,11 +107,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "My social responsibility, industrial experience, interest based research and visualization study project."
+    title: Blogs 
     url: blogs
